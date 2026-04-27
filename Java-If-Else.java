@@ -1,6 +1,6 @@
 //https://www.hackerrank.com/challenges/java-if-else/problem
 
-//Given an integer, , perform the following conditional actions:
+//Given an integer, perform the following conditional actions:
 
 //If  is odd, print Weird
 //If  is even and in the inclusive range of  to , print Not Weird
